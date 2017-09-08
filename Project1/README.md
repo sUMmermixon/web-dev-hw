@@ -9,6 +9,7 @@
 2. This is easy to understand. Computer terminololgies (?) is easy for me to grasp.
    * spelling is not my strong suit :(
 3. Visual learning is my JAM.
+4. adding a line for git-hub
 
 **Unordered List:**
   * with dots
@@ -16,7 +17,7 @@
 
 ``` name
 I had difficulty linking
-a website. But I figured it 
+a website. But I figured it
 out! its down there...
 ```
 `...below this`
