@@ -26,3 +26,5 @@ out! its down there...
 
 ~~Screenshot!~~
 ![Screenshot of my Directory](./images/ScreenShot1.png)
+
+The going back and forth from atom to git-hub is a little confusing, but I'm hoping with more practice it will be a breeze. 
