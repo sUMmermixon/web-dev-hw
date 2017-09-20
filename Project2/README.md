@@ -1,8 +1,4 @@
 <!DOCTYPE md>
-<head>
-  <title>project 2</title>
-</head>
-<body>
   <h1><b>Project 2</b></h1>
   <h2><q>instructable</q></h2>
   <h3><i>Part 1 of 3<i></h3>
