@@ -9,3 +9,29 @@
     <ol>
       <li>creating a page content being the recipe?</li>
       <li>creating a page with the content being what I intend to do, sort of like this README?</li></P>
+    </ol>
+  <p>- I went with chocolate chip cookies, and the 1st part of the homework is   to simply put the ingrdients list on the home page.</p>
+  <hr />
+<h3><i>Part 2 of 3</i></h3>
+  <p>Part 2 is alot of work.</P>
+    <ol>
+      <li>I went through and wrote 5 pages of notes and definitions.</li>
+      <li>Then created the instructions page to the website.Wherer I made a table</li>
+      <li>Now moving on to the form page to creat a comminity blog, sahring photos type thing.</li>
+    </ol>
+<h4>Images</h4>
+  </p>-The incorporating images into a website was a breeze. I have been working with photshop and lightroom for <b>YEARS</b> and <i>image quality</i> and <i>pixels</i> and <i>vectors</i> is like a second language to me, I was excited to start bringing images into the picture ;)</p>
+<h4>Tables</h4>
+  <p>-tables are a little challening, but I think the trick is to just keeo you code completley organized.</p>
+<h4>Forms</h4>
+  <p>-
+
+  ```name
+  I haven't ran into any problems so far.
+  I really cant wait to learn `CSS`.
+  I want to learn how to change layouts and font types
+  and in general, stylize the entire site to make it look less boring.
+  Everytime I google somthing like "how to center text"
+  it gives me the  `css` version first.
+  So, I'm looking forward to the "design" part of this class!
+  ```
