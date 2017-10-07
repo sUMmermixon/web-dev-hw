@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Form</title>
+  </head>
+  <body>
+    <h1><center>Sign up to Share!</center></h1>
+    <form action="https://summermixon.github.io/web-dev-hw/Project2/login.php" method="post" id="subscribe" class="basic-form">
+      <fieldset>
+        <legend>About You</legend>
+        <label>First Name:<br />
+          <input type="text" name="name" size="30" maxlength="50">
+        </label>
+        <br />
+        <label>Last Name: <br />
+          <input type="text" name="name" size="30" maxlength="50">
+        </label>
+        <br />
+        <label> Email address: <br />
+          <input type="email" name="email" size="30" maxlength="50">
+        </label>
+        <br />
+        <p>Interested in:<br /></p>
+          <input type="radio" name="type" value="baking" />
+          Baking
+          <input type="radio" name="type" value="Cooking" />
+          Cooking
+          <input type="radio" name="type" value="eating"
+          checked="checked" />
+           Eating
+        </fieldset>
+        <br />
+        <br />
+        <fieldset>
+          <legend>Create a Username and Password</legend>
+            <label>Username: <br />
+              <input type="text" name="username" size="30" maxlength="50" />
+            </label>
+          <br />
+          <legend> Password: <br />
+              <input type="password" name="password" size="30" maxlength="50" />
+          </legend>
+        </fieldset>
+        <hr />
+      </form>
+      <h1><center> Spill your Cookies!</center></h1>
+        <form action="https://summermixon.github.io/web-dev-hw/Project2/upload.php" method="post" id="upload-form" class="basic-forms">
+          <p> Upload a picture of your cookies!<br /></p>
+          <input type="file" name="user-image" />
+          <br />
+          <br />
+          <input type="submit" value="upload" />
+        </form>
+        <form action="https://summermixon.github.io/web-dev-hw/Project2/comment.php" method="post" id="comment-form" class="basic-form">
+          <p>How did they turn out?</p>
+          <textarea name="comments" cols="50" rows"100">Enter comments or suggestions..</textarea>
+        </form>
+        <form action="https://summermixon.github.io/web-dev-hw/Project2/rating.php" method="post" id="rate-form" class="basic-form">
+          <p>Rate this dish</p>
+          <select name="ratings">
+            <option value="not-good">&star;</option>
+            <option value="okay">&star;&star;</option>
+            <option value="good">&star;&star;&star;</option>
+            <option value="really-good">&star;&star;&star;&star;</option>
+            <option value="excellent">&star;&star;&star;&star;&star;</option>
+          </select>
+        </form>
+        <br />
+        <br />
+        <br />
+        <ul>
+          <li><a href="..index.html">Ingredients List (Home)</a></li>
+          <li><a href="./instructions.html">Instructions</a></li>
+        </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

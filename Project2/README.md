@@ -22,11 +22,14 @@
 <h4>Images</h4>
   </p>-The incorporating images into a website was a breeze. I have been working with photshop and lightroom for <b>YEARS</b> and <i>image quality</i> and <i>pixels</i> and <i>vectors</i> is like a second language to me, I was excited to start bringing images into the picture ;)</p>
 <h4>Tables</h4>
-  <p>-tables are a little challening, but I think the trick is to just keeo you code completley organized.</p>
+  <p>-tables are a little challening, but I think the trick is to just keep your code completley organized.</p>
 <h4>Forms</h4>
-  <p>-
+  <p>-forms were easier to follow and didnt seem as time consuming.
+    I did run into a probelm however : <br />
+    <img src="/Users/summixalot/Desktop/ss.png" alt="screenshot of weird error" title="screenshot"/>
+    `<textarea>` is messed up somewhow? i followed the formula of `<textarea> </textarea>` and i got an error saying that the special characters must me "escaped"? I can't find what i did wrong.. so I left it. will it effect what it looks like online, probley. we shall see.
 
-  ```name
+```name
   I haven't ran into any problems so far.
   I really cant wait to learn `CSS`.
   I want to learn how to change layouts and font types
