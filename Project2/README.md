@@ -26,7 +26,7 @@
 <h4>Forms</h4>
   <p>-forms were easier to follow and didnt seem as time consuming.
     I did run into a probelm however : <br />
-    <img src="/Users/summixalot/Desktop/ss.png" alt="screenshot" title="screenshot" />
+    <img src="../images/ss.png" alt="screenshot" title="screenshot" />
     `<textarea>` is messed up somewhow? i followed the formula of `<textarea> </textarea>` and i got an error saying that the special characters must me "escaped"? I can't find what i did wrong.. so I left it. will it effect what it looks like online, probley. we shall see.
 
 ```name
