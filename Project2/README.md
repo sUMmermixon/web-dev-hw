@@ -38,3 +38,12 @@
   it gives me the  `css` version first.
   So, I'm looking forward to the "design" part of this class!
   ```
+<hr>
+<h1>Part 3/3</h1>
+
+<p> this time I kind of had to rush to get it done, I keep looking to see if i have homework too late apparently becuase when i do its due by 11:55pm the same day. I work full-time have two babies. It gets a little insane.</p>
+<br>
+<p>i would have liked more time to maybe put in some style elmenets. </p>
+<br>
+<p>over all this project was great and im learning an insane amount.</p>
+<h3>looking forward to CSS!</h3
