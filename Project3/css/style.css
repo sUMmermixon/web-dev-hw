@@ -1,1 +1,8 @@
+body {
+  font-family: Avenir Next;
+  background-color: #9c938b;
+}
 
+h1,h2,h3,p {
+  color: #003671;
+}

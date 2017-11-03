@@ -8,8 +8,8 @@
 <br>
 <li>The author I guess would be myself? But also I will taking some content from others... so not too sure what to cite for that. </li>
 <br>
-<li>Color is my favorite!! I love color palettes. I'm try this Color Triad:
-<img src="/Users/summixalot/Documents/Homework/web-dev-hw/Project3/images/ss.png" alt="color palette"> </li>
+<li>Color is my favorite!! I love color palettes. I'm try these shades:
+<img src="../images/blue.png" alt="color palette"> </li>
 `images never freaking come up for me ....and im pulling my hair out.`
 <br>
 <br>
@@ -19,3 +19,14 @@
 <a href="https://shantellmartin.art">Shantell Martin's Website</a> HOW?? I wanna do this!! I might study this coding...</li>
 <br>
 <li>For fonts I <b>ALWAYS</b> use <a href="https://www.dafont.com">dafont.com</a> It's free and has literally every font imaginable.
+<hr>
+<h1> Part two</h1>
+
+<ul>
+<li>CSS is knew to me. I thought  I would be excited to start learing the styling side of code but honestly its kind of difficult.
+I dont know how to write what i want it to look like.</li>
+<li>its taking me all day to just get the content on my index page.
+<br />
+<strong>I HAVE SO MUCH HOMWORK!</strong>
+<br />
+`i dont know if ill be done in time to turn it in Monday :(`
