@@ -6,3 +6,7 @@ body {
 h1,h2,h3,p {
   color: #003671;
 }
+
+p.one {
+  border-style: solid;
+}
