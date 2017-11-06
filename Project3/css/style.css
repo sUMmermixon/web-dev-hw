@@ -1,12 +1,31 @@
 body {
   font-family: Avenir Next;
-  background-color: #9c938b;
+  background-color: #B8A18C;
+  font-size: 16px;
 }
 
 h1,h2,h3,p {
+  color: #003671;
+  font-family: Avenir Next;
+  background-color: ##F7D8BD;
+}
+
+table, th, td {
+  border: 1px solid black;
   color: #003671;
 }
 
 p.one {
   border-style: solid;
+  color: #785637;
+  font-family: Avenir Next;
+}
+
+p.three {
+  font-family: Snell Roundhand;
+  color: #003671;
+}
+
+td.one {
+  font-size: 16;
 }
