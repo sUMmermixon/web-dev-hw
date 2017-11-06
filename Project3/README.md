@@ -30,3 +30,4 @@ I dont know how to write what i want it to look like.</li>
 <strong>I HAVE SO MUCH HOMWORK!</strong>
 <br />
 `i dont know if ill be done in time to turn it in Monday :(`
+<li> I ran out of time.... its not where I would like it to be but, what do you do. 
