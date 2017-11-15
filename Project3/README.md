@@ -30,4 +30,14 @@ I dont know how to write what i want it to look like.</li>
 <strong>I HAVE SO MUCH HOMWORK!</strong>
 <br />
 `i dont know if ill be done in time to turn it in Monday :(`
-<li> I ran out of time.... its not where I would like it to be but, what do you do. 
+<li> I ran out of time.... its not where I would like it to be but, what do you do.
+<hr>
+<h1>Part Three</h1>
+<li>Thank GOD this project is almost done. I just want to start over and be able to manage my time better. I work Full-time, i am in school full-Time, and im a full-time mom of two. i literally have barley enough time to even eat. I have a math test tomorrow, a project in illustrator due friday that i havent even started and I have a paper to write, oh and PART THREE FOR THIS CLASS IS DUE TOMORROW... gotta love college.</li>
+<br />
+<li>part three is due tomorrow and i barely even have part two done.</li>
+<li> i sure got a faster paced class alright, thats what i get for opening my mouth</li>
+<br />
+<li> i have no layout.</li>
+<br />
+<li> THIS CLASS WOULD BE BETTER AND MORE ORGANIZED FOR STUDENTS WITH OUTRAGEOUSLY FULL SCHEDULES IF YOU COULD TELL US WHEN A PROJECTS STARTS AND ENDS. For Example: Project three part one starts 11/1 due 11/5 part two starts 11/5 due 11/10. THAT WAY SAID BUSY STUDENTS CAN TIME MAGANGE WHEN TO WORK ON THEIR ASSIGNMENTS. NOT BY GUESSING AND CHECKING WHEN SOMETHING IS UP AND THEN TRYING TO DO ALL OF THIS IN A DAY BECAUSE ITS DUE. </li>

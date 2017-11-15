@@ -8,6 +8,7 @@ h1,h2,h3,p {
   color: #003671;
   font-family: Avenir Next;
   background-color: ##F7D8BD;
+  s
 }
 
 table, th, td {
@@ -19,13 +20,37 @@ p.one {
   border-style: solid;
   color: #785637;
   font-family: Avenir Next;
+  border-width: 2px;
 }
 
 p.three {
   font-family: Snell Roundhand;
+  font-weight: bold;
   color: #003671;
+  border-style: solid;
+  padding: 20px;
+  border-color: #785637;
+  margin: auto;
+  background-color: inherit;
 }
 
 td.one {
   font-size: 16;
+}
+
+legend {
+  border-color: #efefef;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 10px 20 px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+fieldset {
+  width: 350px;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: left;
 }
