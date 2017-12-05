@@ -1,0 +1,43 @@
+<!DOCTYPE CSS>
+img, embed,
+object, video {
+  max-width:100%;
+}
+
+nav a, button {
+  min-width: 48px;
+  min-height: 48px;
+}
+
+@media (min-width:600px) {
+  body {
+    color: black;
+  }
+}
+
+BREAKPOINTS
+
+body {
+font-family: arial, sans-serif;
+  width: 90%;auto
+  margin: 0 auto;
+}
+
+name{
+  font-size: 200%;
+}
+
+.c1, .c2, .c3{
+  margin: 1%;
+  background-color: #efefef;
+}
+
+.c1, .c2, .c3{
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+
+.c3{
+  margin-right:0%;
+}

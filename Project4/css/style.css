@@ -1,0 +1,72 @@
+<!DOCTYPE CSS>
+img, embed,
+object, video {
+  max-width:100%;
+}
+
+nav a, button {
+  min-width: 48px;
+  min-height: 48px;
+}
+
+@media (min-width:600px) {
+  body {
+    color: 100%;
+  }
+}
+
+}
+
+.container {
+  width:50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body {
+  font-size: 100%;
+font-family: impact, sans-serif;
+  width: 90%;auto
+  margin: 0 auto;
+  background-color: #efc2c2;
+}
+
+.lower-header, .footer{
+  font-size: 200%;
+  font-family: impact, sans-serif;
+
+}
+
+body {
+  background-color: #efc2c2;
+}
+.c1, .c2, .c3{
+  margin: 1%;
+  background-color: #efefef;
+  font-family: arial, sans-serif;
+}
+
+.c1, .c2, .c3{
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+  flex: auto;
+  flex-wrap: wrap;
+
+}
+
+.c3{
+  margin-right:0%;
+}
+
+@media (min-width: 550px) {
+  .c1{
+    order: 3;
+  }
+  .c2{
+    order: 1;
+  }
+  .c3{
+    order: 2;
+  }
+}
