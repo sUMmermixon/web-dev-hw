@@ -27,3 +27,6 @@ You should also provide a list of content items that you will include in your si
 
 - color pallette is pink grey and black.
 <img src="./images/color.png" alt="color">
+
+Might try and do a picture that is responsive.
+<img src="./images/traces3-02.png" alt="picture i made">
